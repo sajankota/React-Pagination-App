@@ -1,6 +1,3 @@
-import React from "react";
-// Import the necessary modules from the React library
-
 const Post = ({ posts, loading }) => {
   // Define a functional component called "Post" that accepts two props: "posts" and "loading"
 
